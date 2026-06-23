@@ -79,5 +79,8 @@ Garvit Gupta
 
 ---
 
-## Reference#
- - [Oasis Infobyte](https://oasisinfobyte.com/)
+## References
+
+- Scikit-Learn Documentation
+- Iris Dataset
+- Python Documentation
